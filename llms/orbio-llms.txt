@@ -1,0 +1,44 @@
+# Orbio Earth
+
+> Orbio Earth is a climate-tech company that turns open satellite data into industrial methane
+> intelligence for the energy sector. Its platform detects, quantifies, and tracks methane emissions
+> from oil-and-gas infrastructure globally at asset level (~5-day revisit) using Sentinel-2, Landsat
+> 8/9, and EMIT imagery plus machine learning and Bayesian uncertainty estimation. Access is via the
+> web application or a sales-gated data API integration; there is no public self-serve developer
+> portal, OpenAPI, or SDK at this time.
+
+<!--
+generated: '2026-07-20'
+method: generated
+source: apis.yml + www.orbio.earth (no provider-published /llms.txt found; HTTP 404)
+-->
+
+## Company
+
+- [Orbio Earth](https://www.orbio.earth/): Industrial methane emissions monitoring via satellite.
+- [About](https://www.orbio.earth/about): Founded 2021; Dover, Delaware, USA and Cologne, Germany.
+- [Platform](https://www.orbio.earth/platform): Methane detection, quantification, trend and root-cause analysis; access via web app or API integration.
+
+## Solutions
+
+- [Oil and Gas](https://www.orbio.earth/solutions/oil-and-gas): Super-emitter identification and regulatory compliance for operators.
+- [Private Equity](https://www.orbio.earth/solutions/private-equity): Asset-level emissions insights across portfolios.
+
+## Access
+
+- [Pricing and Demo](https://www.orbio.earth/demo): Request platform access; API integration is arranged through sales (info@orbio.earth).
+
+## Open Source
+
+- [Project Eucalyptus](https://github.com/Orbio-Earth/Project-Eucalyptus): Open-source satellite methane-detection pipelines, segmentation models, synthetic plume generator, and benchmarking tools (research / non-commercial).
+- [GitHub Organization](https://github.com/Orbio-Earth): Orbio Earth open-source repositories.
+
+## Resources
+
+- [Articles](https://www.orbio.earth/articles): Company articles and analysis.
+- [News](https://www.orbio.earth/news): Company news.
+
+## Legal
+
+- [Terms and Conditions](https://www.orbio.earth/terms-conditions)
+- [Privacy Policy](https://www.orbio.earth/privacy-policy)
