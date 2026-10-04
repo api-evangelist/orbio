@@ -57,7 +57,7 @@ tags:
 - Geospatial
 - Oil and Gas
 - Environmental
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Climate
@@ -69,6 +69,7 @@ tags_raw:
 - Oil and Gas
 - Environmental
 - Machine Learning
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
